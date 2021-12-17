@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Using This Template
-create-next-app {プロジェクト名} --example git@github.com:T-Suzuki76/nt-temp.git
+npx create-next-app {プロジェクト名} --example git@github.com:T-Suzuki76/nt-temp.git
 
 ※This template was created based on Zenn's article https://zenn.dev/lou/articles/a999ea8270a2f9;
 
